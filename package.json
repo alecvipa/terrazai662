@@ -1,0 +1,26 @@
+{
+  "name": "terrazai662",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecvipa/terrazai662.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecvipa/terrazai662/issues"
+  },
+  "homepage": "https://github.com/alecvipa/terrazai662#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "express-handlebars": "^6.0.5",
+    "mdb-ui-kit": "^4.0.0",
+    "nodemailer": "^6.7.3"
+  }
+}
