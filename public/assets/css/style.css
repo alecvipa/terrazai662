@@ -1,6 +1,6 @@
 
 .fonts3{
-    font-family: 'Nunito Sans', sans-serif !important;
+    font-family: 'Montserrat';
 
 }
 .footer{
@@ -18,6 +18,9 @@
     background-size: cover;
     margin-bottom: 3%;
 
+}
+.nosotrosT{
+     margin-top: -3%;
 }
 .bannerConsultingJofer{
     background-image: url("/assets/images/bannerCosulting.jpg");
@@ -80,7 +83,7 @@
         margin-top: 5%;
     }
     .inicioDivT{
-        height: 30rem;
+        height: 26rem;
     
     }
    
