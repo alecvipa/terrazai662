@@ -36,12 +36,11 @@
     margin-top: 5%;
 }
 .privacidadBanner{
-    height: 16rem;
-    background-image: url("/assets/images/bannerSpace.jpg");
+    height: 36rem;
+    background-image: url("/assets/images/bannerTerrazaInicio.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 5%;
 
 }
 .tablePrivacidad{
@@ -50,6 +49,9 @@
 .divCatchUp{
     padding-top: 3%;
     margin-top: -3%;
+}
+.componentsDiv{
+    margin-top: -5%;
 }
 
 
@@ -61,12 +63,16 @@
     .rounded-bl-lg-5 {
         border-bottom-left-radius: 0.5rem;
     }
+    
 }
 
 @media(min-width:992px){
     
 }
 @media(max-width:991px){
+    .componentsDiv{
+        margin-top: -31%;
+    }
     .divCatchUp{
         display: none;
     }
